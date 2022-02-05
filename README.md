@@ -1,3 +1,11 @@
+# pdf-lib-rs
+
+This fork is an attempted rewrite of the amazing pdf-lib javascript library in Rust.
+
+
+
+# BELOW IS FROM ORIGINAL REPOSITORY
+
 <a href="https://pdf-lib.js.org">
 <h1 align="center">
 <img alt="pdf-lib" height="300" src="https://raw.githubusercontent.com/Hopding/pdf-lib-docs/master/assets/logo-full.svg?sanitize=true">
